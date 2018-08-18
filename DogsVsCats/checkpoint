@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/martinferianc/Desktop/TensorFlowTutorial/DogsVsCats/dogsvscats-0.001-2conv-basic.model.model"
+all_model_checkpoint_paths: "/Users/martinferianc/Desktop/TensorFlowTutorial/DogsVsCats/dogsvscats-0.001-2conv-basic.model.model"
